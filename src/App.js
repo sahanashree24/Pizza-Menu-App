@@ -10,7 +10,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/Pizza-Menu-App">
         <Navbar />
         <Switch>
           <Route path="/" exact component={Home} />
