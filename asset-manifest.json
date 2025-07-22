@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Pizza-Menu-App/static/css/main.00ad5815.chunk.css",
+    "main.js": "/Pizza-Menu-App/static/js/main.96e66724.chunk.js",
+    "main.js.map": "/Pizza-Menu-App/static/js/main.96e66724.chunk.js.map",
+    "runtime-main.js": "/Pizza-Menu-App/static/js/runtime-main.0a9ce7c8.js",
+    "runtime-main.js.map": "/Pizza-Menu-App/static/js/runtime-main.0a9ce7c8.js.map",
+    "static/js/2.1e55cc64.chunk.js": "/Pizza-Menu-App/static/js/2.1e55cc64.chunk.js",
+    "static/js/2.1e55cc64.chunk.js.map": "/Pizza-Menu-App/static/js/2.1e55cc64.chunk.js.map",
+    "static/js/3.e8251840.chunk.js": "/Pizza-Menu-App/static/js/3.e8251840.chunk.js",
+    "static/js/3.e8251840.chunk.js.map": "/Pizza-Menu-App/static/js/3.e8251840.chunk.js.map",
+    "index.html": "/Pizza-Menu-App/index.html",
+    "static/css/main.00ad5815.chunk.css.map": "/Pizza-Menu-App/static/css/main.00ad5815.chunk.css.map",
+    "static/js/2.1e55cc64.chunk.js.LICENSE.txt": "/Pizza-Menu-App/static/js/2.1e55cc64.chunk.js.LICENSE.txt",
+    "static/media/expensive.6449ceef.jpg": "/Pizza-Menu-App/static/media/expensive.6449ceef.jpg",
+    "static/media/margherita.683bc9bb.jpg": "/Pizza-Menu-App/static/media/margherita.683bc9bb.jpg",
+    "static/media/multiplePizzas.490709e2.jpeg": "/Pizza-Menu-App/static/media/multiplePizzas.490709e2.jpeg",
+    "static/media/pedrotechspecial.425951cb.jpg": "/Pizza-Menu-App/static/media/pedrotechspecial.425951cb.jpg",
+    "static/media/pepperoni.d173e5db.jpg": "/Pizza-Menu-App/static/media/pepperoni.d173e5db.jpg",
+    "static/media/pineapple.a01ab9be.jpg": "/Pizza-Menu-App/static/media/pineapple.a01ab9be.jpg",
+    "static/media/pizza.21a1098f.jpeg": "/Pizza-Menu-App/static/media/pizza.21a1098f.jpeg",
+    "static/media/pizzaLeft.24b07891.jpg": "/Pizza-Menu-App/static/media/pizzaLeft.24b07891.jpg",
+    "static/media/pizzaLogo.fcdc67e6.png": "/Pizza-Menu-App/static/media/pizzaLogo.fcdc67e6.png",
+    "static/media/vegan.52cbfe9e.jpg": "/Pizza-Menu-App/static/media/vegan.52cbfe9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a9ce7c8.js",
+    "static/js/2.1e55cc64.chunk.js",
+    "static/css/main.00ad5815.chunk.css",
+    "static/js/main.96e66724.chunk.js"
+  ]
+}
